@@ -2,7 +2,7 @@
 
 ## Weather API Application
 
-## 2. Fetch forecast data for a user-specified city
+## Fetch forecast data for a user-specified city
 
 Note that there are several different API methods that might work well here, though some of them require a paid subscription to the OpenWeather API, though, since you're a student, [OpenWeather will upgrade your API key for free](https://openweathermap.org/price#offers), giving you access to some of the API methods you'd normally have to pay for.  Here are a few of the API methods that might work well for this assignment:
   * [The 16-day daily forecast](https://openweathermap.org/forecast16) (requires an upgraded API key)
@@ -19,6 +19,6 @@ Whatever API method(s) you use, make sure you fetch several periods of forecast 
 
 > Note: The OpenWeather API works best when you use a specific format for the city name, e.g. "Corvallis,OR,US".  To make it easier on you, you can assume that users will type city names in this format.
 
-## 3. Apply professional-grade styling to your app
+## Apply professional-grade styling to your app
 
 Use Emotion to make your app look as good as you can.  It's up to you to come up with an application design, but really try to make your app look like a real, production weather app.  Remember, the assignments in this course are graded based on effort, not correctness, so you won't be penalized if your app doesn't win design awards, but treat this as an opportunity to practice using CSS to build an app that looks really good.
